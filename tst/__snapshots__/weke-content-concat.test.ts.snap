@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`just the text, maam 1`] = `
+"=== Purpose ===
+Our purpose is to test the content.
+{{plantUML}}
+@startuml
+
+\\"Tannie\\" -> \\"Male\\"
+\\"Lauren\\" -> \\"Male\\"
+\\"Ervin\\" -> \\"Male\\"
+\\"Hersch\\" -> \\"Male\\"
+\\"Darnall\\" -> \\"Male\\"
+\\"Moise\\" -> \\"Male\\"
+\\"Dunstan\\" -> \\"Male\\"
+\\"Klemens\\" -> \\"Male\\"
+\\"Lancelot\\" -> \\"Male\\"
+\\"Arlan\\" -> \\"Male\\"
+\\"Clemmy\\" -> \\"Male\\"
+\\"Tyrus\\" -> \\"Male\\"
+\\"Colas\\" -> \\"Male\\"
+\\"Dun\\" -> \\"Male\\"
+\\"Demetri\\" -> \\"Male\\"
+\\"Arron\\" -> \\"Male\\"
+\\"Purcell\\" -> \\"Male\\"
+\\"Nigel\\" -> \\"Male\\"
+\\"Pryce\\" -> \\"Male\\"
+\\"Gav\\" -> \\"Male\\"
+\\"Piotr\\" -> \\"Male\\"
+\\"Rickey\\" -> \\"Male\\"
+\\"Wolf\\" -> \\"Male\\"
+\\"Derron\\" -> \\"Male\\"
+\\"Artemas\\" -> \\"Male\\"
+\\"Ernestus\\" -> \\"Male\\"
+\\"Bordy\\" -> \\"Male\\"
+\\"Anatollo\\" -> \\"Male\\"
+\\"Thornie\\" -> \\"Male\\"
+\\"Thorin\\" -> \\"Male\\"
+\\"Neddy\\" -> \\"Male\\"
+\\"Germaine\\" -> \\"Male\\"
+\\"Pablo\\" -> \\"Male\\"
+\\"Aldrich\\" -> \\"Male\\"
+\\"Dale\\" -> \\"Male\\"
+\\"Nappie\\" -> \\"Male\\"
+\\"Nico\\" -> \\"Male\\"
+\\"Shaun\\" -> \\"Male\\"
+\\"Josias\\" -> \\"Male\\"
+\\"Rodolfo\\" -> \\"Male\\"
+\\"Duke\\" -> \\"Male\\"
+\\"Keary\\" -> \\"Male\\"
+\\"Bond\\" -> \\"Male\\"
+\\"Colan\\" -> \\"Male\\"
+\\"Alwin\\" -> \\"Male\\"
+\\"Jackie\\" -> \\"Male\\"
+\\"Christian\\" -> \\"Male\\"        
+
+@enduml
+{{/plantUML}}"
+`;
