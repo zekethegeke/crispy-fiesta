@@ -1,6 +1,6 @@
 import dedent from 'ts-dedent';
 import { Addresses } from '../src/Addresses';
-
+import { wrap } from 'jest-snapshot-serializer-raw';
 const addresses = (new Addresses(require("./test-addresses.json")));
 
 test('just the text, maam', () => {
@@ -23,5 +23,5 @@ test('just the text, maam', () => {
         @enduml
         {{/plantUML}}`
     ;
-    expect(content).toMatchSnapshot();
+    expect(wrap(content)).toMatchSnapshot();
 });
