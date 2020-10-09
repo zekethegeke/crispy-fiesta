@@ -5,7 +5,6 @@ exports[`just the text, maam 1`] = `
 Our purpose is to test the content.
 {{plantUML}}
 @startuml
-
 "Tannie" -> "Male"
 "Lauren" -> "Male"
 "Ervin" -> "Male"
@@ -53,7 +52,6 @@ Our purpose is to test the content.
 "Alwin" -> "Male"
 "Jackie" -> "Male"
 "Christian" -> "Male"        
-
 @enduml
 {{/plantUML}}
 `;
