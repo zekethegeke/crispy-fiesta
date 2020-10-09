@@ -3,6 +3,7 @@
 exports[`yet another mark around language 1`] = `
 === Purpose ===
 Our purpose is to test the content.
+=== //[[AddressesPage]]// ===
 {{plantUML}}
 @startuml
 (*) - (*)

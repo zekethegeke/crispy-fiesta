@@ -3,6 +3,7 @@
 exports[`smooth talker 1`] = `
 === Purpose ===
 Our purpose is to test the content.
+=== //[[AddressesPage]]// ===
 {{plantUML}}
 @startuml
 (*) - (*)
@@ -55,4 +56,5 @@ Our purpose is to test the content.
 "Christian" -> "Male"
 @enduml
 {{/plantUML}}
+
 `;

@@ -3,6 +3,7 @@
 exports[`just the text, maam 1`] = `
 === Purpose ===
 Our purpose is to test the content.
+=== //[[AddressesPage]]// ===
 {{plantUML}}
 @startuml
 "Tannie" -> "Male"

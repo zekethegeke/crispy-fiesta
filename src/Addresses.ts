@@ -1,3 +1,5 @@
+import { WekePageRef } from 'weke-plex';
+
 export interface Address {
     id: number,
     first: string,
@@ -20,3 +22,5 @@ export class Addresses {
         return new Addresses(JSON.parse(json) as Address[]);
     }
 }
+
+export const addressesPage = new WekePageRef("AddressesPage");

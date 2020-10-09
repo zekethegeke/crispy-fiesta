@@ -1,6 +1,7 @@
 import dedent from 'ts-dedent';
-import { Addresses } from '../src/Addresses';
+import { Addresses, addressesPage } from '../src/Addresses';
 import { wrap } from 'jest-snapshot-serializer-raw';
+
 const addresses = (new Addresses(require("./test-addresses.json")));
 
 test('just the text, maam', () => {
@@ -10,6 +11,7 @@ test('just the text, maam', () => {
         dedent `
         === Purpose ===
         Our purpose is to test the content.
+        === //[[${addressesPage.path}]]// ===
         {{plantUML}}
         @startuml`
         + "\n"
