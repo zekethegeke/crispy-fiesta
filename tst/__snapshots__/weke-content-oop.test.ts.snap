@@ -1,5 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`all your list belong to us 1`] = `=== Lists ===`;
+
 exports[`all your object belong to us 1`] = `
 === Purpose ===
 Our purpose is to test the content.
